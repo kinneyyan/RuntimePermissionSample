@@ -117,13 +117,15 @@ Android M runtime permission sample
     
 ## 4.第三方开源库
 
-列举几个还不错的。
+前两个使用了注解
 
-- [https://github.com/hotchemi/PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher)
+- [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher)
 	
-- [https://github.com/Karumi/Dexter](https://github.com/Karumi/Dexter)
-	
-- [https://github.com/hongyangAndroid/MPermissions](https://github.com/hongyangAndroid/MPermissions)
+- [MPermissions](https://github.com/hongyangAndroid/MPermissions)
+
+- [Dexter](https://github.com/Karumi/Dexter)
+
+- [TedPermission](https://github.com/ParkSangGwon/TedPermission)
 
 ## 5.参考博客
 
