@@ -16,6 +16,8 @@ Android M runtime permission sample
 	
 同一组的任何一个权限被授权了，其他权限也自动被授权。
 
+3.11更新：所有需要申请的权限还是必须在AndroidManifest中声明，否则，即使同组一个权限被授权了，一个未在AndroidManifest中声明的权限授权还是会失败。
+
 ## 2.关于targetSdkVersion需要注意的
 - 若targetSdkVersion低于23，将使用旧有规则：用户在安装的时候不得不接受所有权限，安装后app就有了那些权限。不过用户依然可以在设置中取消已经同意的授权。
 - 若targetSdkVersion高于23，如果app在使用一些敏感权限的时候没有做运行时权限的代码处理，app会直接crash。
