@@ -1,6 +1,12 @@
 # RuntimePermissionSample
 Android M runtime permission sample
 
+*2016.11.17更新：*
+
+如果已经了解运行时权限的基本使用，可以直接参考这篇文章：[Android M 权限最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058365&idx=1&sn=022b5828d1711a4efb5fbb6f17abae68&chksm=bd5656018a21df1765e6b272fdecd03a4cd6ccb6784b60842cddf32e8ee5a51dc9fdd26ee4c8&scene=0#rd)
+
+---
+
 以下为Android 6.0 运行时权限相关要点
 
 ## 1.新的权限机制
